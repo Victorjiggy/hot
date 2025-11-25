@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+:root {
+  --brand: #0b74d1; /* brand-blue */
+  --muted: #6b7280;
+}
